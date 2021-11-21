@@ -1,0 +1,7 @@
+F:\DotNet Practice\Day2\demos\Calci\bin\Debug\Calci.exe.config
+F:\DotNet Practice\Day2\demos\Calci\bin\Debug\Calci.exe
+F:\DotNet Practice\Day2\demos\Calci\bin\Debug\Calci.pdb
+F:\DotNet Practice\Day2\demos\Calci\obj\Debug\Calci.csprojAssemblyReference.cache
+F:\DotNet Practice\Day2\demos\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+F:\DotNet Practice\Day2\demos\Calci\obj\Debug\Calci.exe
+F:\DotNet Practice\Day2\demos\Calci\obj\Debug\Calci.pdb

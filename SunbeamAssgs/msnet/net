@@ -1,0 +1,81 @@
+Assgn - 3
+
+1. Create Class Library project called as MyLoggerLib
+a. Write MyLogger.cs singleton class to display log details on console.
+
+2. Open yesterday’s lecture demo (database) project
+a. Take reference of MyLoggerLib.dll in this project & use Log method
+
+
+Assignment No. 4
+
+Create class library “HRMSLib” and write following classes
+1. Write class Date.cs in HRMSLib project with following members:
+int day;
+int month;
+int year;
+Provide following functionality:
+Default constructor
+Parameterized constructor
+Properties:
+Day (1 -31 allowed also consider leap year),
+Month (1 -12 allowed) and
+Year (Consider only 20 th & 21 st century)
+string ToString(); override method to return data of object in string format dd/MM/yyyy.
+Also provide a static member function that returns difference between two date objects in number of
+years.
+
+2. Write a class Person.cs in HRMSLib project with following members:
+string _name; bool _gender; Date _birth;
+string _address;
+Provide following functionality:
+Default constructor
+Parameterized constructor
+Properties: Name, Gender, Birth, Address and Age (Read Only)
+string ToString(); override method to return data of object in string format.
+Hint: Class will contain Date object for birth and Age will be calculculated using static method in
+Date class.
+
+3. Write a enum EmployeeTypes.cs in HRMSLib project with following members:
+Trainee, Permanent, Temporary
+
+4. Write a class Employee.cs in HRMSLib project with following members:
+int _id; (Auto Generated)
+double _salary; double _hra (40% of salary); double _da (10% of salary);
+string _designation; enum EmployeeType _empType;
+Provide following functionality:
+Default constructor
+Parameterized constructor
+Properties: Id, Salary, Designation, EmployeeType and NetSalary (Read Only & virtual)
+string ToString(); override method to return data of object in string format.
+Hint: class must be inherited from Person class. Use static count for auto generating id.
+Netsalary = Salary + HRA + DA
+
+5. Write a class Salesperson in HRMSLib project with following members:
+double _commision ;
+Provide following functionality:
+Default constructor
+Parameterized constructor
+Properties: Commision
+string ToString(); override method to return data of object in string format.
+Hint: class must be inherited from Employee class so that designation is fixed i.e. “Salesperson”.
+Netsalary = Salary + HRA + DA + Commision
+
+6. Write a class WageEmp (Contract basis employee) in HRMSLib project with following members:
+int hours;
+int rate;
+(Per hour basis)
+Provide following functionality:
+Default constructor
+Parameterized constructor
+Properties: Hours, Rate
+string ToString(); override method to return data of object in string format.
+Hint: class must be inherited from Employee class so that designation is fixed i.e. “Wage”.
+Netsalary = Hours * Rate
+
+7. Create a console application and use the library “HRMSLib” as private assembly. Console
+application must be a menu drive program providing facilities of Accepting/Printing Employee
+details
+
+
+

@@ -1,0 +1,6 @@
+F:\DotNet Practice\Day3\demos\CalciLib\bin\Debug\CalciLib.dll
+F:\DotNet Practice\Day3\demos\CalciLib\bin\Debug\CalciLib.pdb
+F:\DotNet Practice\Day3\demos\CalciLib\obj\Debug\CalciLib.csprojAssemblyReference.cache
+F:\DotNet Practice\Day3\demos\CalciLib\obj\Debug\CalciLib.csproj.CoreCompileInputs.cache
+F:\DotNet Practice\Day3\demos\CalciLib\obj\Debug\CalciLib.dll
+F:\DotNet Practice\Day3\demos\CalciLib\obj\Debug\CalciLib.pdb

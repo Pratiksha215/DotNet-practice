@@ -1,0 +1,7 @@
+F:\DotNet Practice\Day4\demos\Solution\01Demo\bin\Debug\01Demo.exe.config
+F:\DotNet Practice\Day4\demos\Solution\01Demo\bin\Debug\01Demo.exe
+F:\DotNet Practice\Day4\demos\Solution\01Demo\bin\Debug\01Demo.pdb
+F:\DotNet Practice\Day4\demos\Solution\01Demo\obj\Debug\01Demo.csprojAssemblyReference.cache
+F:\DotNet Practice\Day4\demos\Solution\01Demo\obj\Debug\01Demo.csproj.CoreCompileInputs.cache
+F:\DotNet Practice\Day4\demos\Solution\01Demo\obj\Debug\01Demo.exe
+F:\DotNet Practice\Day4\demos\Solution\01Demo\obj\Debug\01Demo.pdb

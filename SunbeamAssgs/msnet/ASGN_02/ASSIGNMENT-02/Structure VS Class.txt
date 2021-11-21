@@ -1,0 +1,15 @@
+Structure :: 
+
+1) Structure are Value Type.
+2) All Struct types are implicitly inherit from class System.ValueType.
+3) Assignment to a variable of a struct type creates a copy of the value being assigned.
+4) A struct is not permitted to declare a parameterless instance constructor.
+5) A struct is not permitted to declare a destructor.
+6) struct cannot inherit another structure or class, and it cannot be the base of a class. 
+7) struct members cannot be specified as abstract, sealed, virtual, or protected.
+
+Class :: 
+1) Classes are reference Type
+2) A Class is permitted to declare a parameterless instance constructor.
+4) Class can inherit another class, and it can be the base of a class. 
+5) Class members can be specified as abstract, sealed, virtual, or protected.

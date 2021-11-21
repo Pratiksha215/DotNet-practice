@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Demo", "00Demo\00Demo.csproj", "{8104F51D-EC04-48D2-8107-E0C8F7999469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Demo", "01Demo\01Demo.csproj", "{651A0BE4-D03F-4EB9-B9B7-909B19C2763F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Demo", "02Demo\02Demo.csproj", "{EBC4AD22-0AD5-4287-95C6-7CC055176AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalciLib", "CalciLib\CalciLib.csproj", "{E65060C9-1003-4E7E-AB31-98F6D60A626B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8104F51D-EC04-48D2-8107-E0C8F7999469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8104F51D-EC04-48D2-8107-E0C8F7999469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8104F51D-EC04-48D2-8107-E0C8F7999469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8104F51D-EC04-48D2-8107-E0C8F7999469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651A0BE4-D03F-4EB9-B9B7-909B19C2763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651A0BE4-D03F-4EB9-B9B7-909B19C2763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651A0BE4-D03F-4EB9-B9B7-909B19C2763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651A0BE4-D03F-4EB9-B9B7-909B19C2763F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC4AD22-0AD5-4287-95C6-7CC055176AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC4AD22-0AD5-4287-95C6-7CC055176AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC4AD22-0AD5-4287-95C6-7CC055176AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC4AD22-0AD5-4287-95C6-7CC055176AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65060C9-1003-4E7E-AB31-98F6D60A626B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65060C9-1003-4E7E-AB31-98F6D60A626B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65060C9-1003-4E7E-AB31-98F6D60A626B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65060C9-1003-4E7E-AB31-98F6D60A626B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB5F228-982B-4864-B8C2-B33FB03B401E}
+	EndGlobalSection
+EndGlobal

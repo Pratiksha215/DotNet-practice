@@ -1,0 +1,2 @@
+F:\DotNet Practice\Day4\demos\Solution\01DemoAfterSeparatingFunctionalities\obj\Debug\01DemoAfterSeparatingFunctionalities.csprojAssemblyReference.cache
+F:\DotNet Practice\Day4\demos\Solution\01DemoAfterSeparatingFunctionalities\obj\Debug\01DemoAfterSeparatingFunctionalities.csproj.CoreCompileInputs.cache
